@@ -1,6 +1,5 @@
 # yuanshen_channel
 
-this script can change channel on the client.
+this script can switch back and forth between bilibili channel and mihoyou channel on the client.
 
-
-copy change_channel.py to ${path}/Genshin Impact/Genshin Impact Game and click
+copy the change_channel.py to ${path}/Genshin Impact/Genshin Impact Game and click
