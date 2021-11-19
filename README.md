@@ -1,6 +1,6 @@
 # yuanshen_channel
 
-使用前安装python3
+使用前安装python3  
 必须下载B服，官服用不了，然后放到${安装路径}/Genshin Impact/Genshin Impact Game下
 
 
